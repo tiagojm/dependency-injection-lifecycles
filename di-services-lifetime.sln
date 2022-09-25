@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "di-services-lifetime", "di-services-lifetime\di-services-lifetime.csproj", "{6CC16B55-272D-4917-95A1-C91C3FE9D8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC16B55-272D-4917-95A1-C91C3FE9D8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC16B55-272D-4917-95A1-C91C3FE9D8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC16B55-272D-4917-95A1-C91C3FE9D8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC16B55-272D-4917-95A1-C91C3FE9D8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC3CE9D-0861-4FEE-A825-C9D18B956A2B}
+	EndGlobalSection
+EndGlobal
